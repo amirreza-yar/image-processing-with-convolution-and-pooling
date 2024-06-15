@@ -73,9 +73,8 @@ Here are some example results of applying the convolution filters:
 ```
 │
 ├── main.py          # Main script to run the project
-├── filters.py       # Script containing convolution filters
 ├── README.md        # Project documentation
-└── images/          # Directory to store example images
+└── notebook/          # Directory to store notebook files
 ```
 
 ## Contributing
